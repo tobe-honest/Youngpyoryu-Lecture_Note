@@ -1,7 +1,6 @@
-# SD_academy 강의 일정
-- 2021.03.25 ~ 2021.08.04
+## 강의안 목록입니다.
 
-
+강의안은 pdf로 구성되어 있거나 실습파일은 .ipynb입니다. 원본 강의안은 공개가 불가능합니다.(저작권 문제)
 
 ## 1.파이썬 (초급부터 고급 / 약간의 자료구조)
 1) 소개
@@ -20,7 +19,7 @@
 
 ## 3. Pandas(CSV 포맷 처리)
 
-## 4. Matplotlib(그림 그리기)
+## 4. Matplotlib(그림 그리기)  / seaborn / plotly 
 
 ----------------------------------Machine Learning----------------------------------
 ## 5. 회귀 분석
@@ -33,6 +32,8 @@
 7) 데이터 변환
 8) Logistic Regression(증명 및 오즈비 소개)
 9) Possion Regression 소개
+
+Mixture Model 소개
 
 #### 실습 : 
 1) Sklearn tutorial with Boston House Dataset -> Kfold도 소개
@@ -132,9 +133,11 @@ Hyperparamter 자동 : optnua /  Imblanced data
 6. Convolutiaonl Neural Neworks advanced (시각인지) -> RCNN/Faster RCNN
 7. Recurrent Neural Networks advanced (언어인지) -> transformer
 
+Deep learning advanced
+
 
 ### linux programming 
 ### Docker
-### Flask 
+### web programming
 
-프로젝트 결과 : https://github.com/SD-academy
+국비과정 프로젝트 결과 : https://github.com/SD-academy

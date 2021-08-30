@@ -1,7 +1,6 @@
-# SD_academy 강의 일정
-- 2021.03.25 ~ 2021.08.04
+## 강의안 목록입니다.
 
-
+강의안은 pdf로 구성되어 있거나 실습파일은 .ipynb입니다. 원본 강의안은 공개가 불가능합니다.(저작권 문제)
 
 ## 1.파이썬 (초급부터 고급 / 약간의 자료구조)
 1) 소개
@@ -132,9 +131,11 @@ Hyperparamter 자동 : optnua /  Imblanced data
 6. Convolutiaonl Neural Neworks advanced (시각인지) -> RCNN/Faster RCNN
 7. Recurrent Neural Networks advanced (언어인지) -> transformer
 
+Deep learning advanced
+
 
 ### linux programming 
 ### Docker
-### Flask 
+### web programming
 
-프로젝트 결과 : https://github.com/SD-academy
+국비과정 프로젝트 결과 : https://github.com/SD-academy

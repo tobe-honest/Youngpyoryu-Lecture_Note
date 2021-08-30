@@ -19,7 +19,7 @@
 
 ## 3. Pandas(CSV 포맷 처리)
 
-## 4. Matplotlib(그림 그리기)
+## 4. Matplotlib(그림 그리기)  / seaborn / plotly 
 
 ----------------------------------Machine Learning----------------------------------
 ## 5. 회귀 분석
@@ -32,6 +32,8 @@
 7) 데이터 변환
 8) Logistic Regression(증명 및 오즈비 소개)
 9) Possion Regression 소개
+
+Mixture Model 소개
 
 #### 실습 : 
 1) Sklearn tutorial with Boston House Dataset -> Kfold도 소개

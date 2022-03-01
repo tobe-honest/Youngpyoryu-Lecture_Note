@@ -33,7 +33,7 @@
 
 ## 04. Matplotlib(그림 그리기)  / seaborn / plotly 
 
-============================================Machine Learning============================================
+============================Machine Learning============================
 ## 05. 회귀 분석
 1) 회귀 분석이란?
 2) 경사하강법 소개 및 증명
@@ -136,7 +136,7 @@ Hyperparamter 자동 : optnua /  Imblanced data
 4) t/f 검정, Kullback-Leibeler Divergerence, AIC(Akaike Information Criterion), BIC(Bayesain Information Criterion)
 5) python statsmodels package
 
-============================================Deep Learning============================================
+============================Deep Learning============================
 1. peceptron
 2. mulit layer perceptron
 3. Convoluiontal Neural Networks

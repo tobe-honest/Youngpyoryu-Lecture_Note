@@ -5,6 +5,8 @@
 
 ## 00.빅데이터 기초
  - 빅데이터/인공지능 기초에 대해 강의안이 구성되어 있습니다.
+
+
 ## 01.파이썬 (초급부터 고급 / 약간의 자료구조)
 1) 소개
 2) 기본
@@ -31,7 +33,7 @@
 
 ## 04. Matplotlib(그림 그리기)  / seaborn / plotly 
 
-----------------------------------Machine Learning----------------------------------
+============================================Machine Learning============================================
 ## 05. 회귀 분석
 1) 회귀 분석이란?
 2) 경사하강법 소개 및 증명
@@ -134,7 +136,7 @@ Hyperparamter 자동 : optnua /  Imblanced data
 4) t/f 검정, Kullback-Leibeler Divergerence, AIC(Akaike Information Criterion), BIC(Bayesain Information Criterion)
 5) python statsmodels package
 
-----------------------------------Deep Learning----------------------------------
+============================================Deep Learning============================================
 1. peceptron
 2. mulit layer perceptron
 3. Convoluiontal Neural Networks

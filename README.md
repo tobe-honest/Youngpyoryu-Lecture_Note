@@ -1,4 +1,4 @@
-#청주 R 교육자료 : https://colab.research.google.com/drive/1XGIcFrK9mQmft5XE5j7z0JSCbHa0Te0L?usp=sharing
+# 청주 R 교육자료 : https://colab.research.google.com/drive/1XGIcFrK9mQmft5XE5j7z0JSCbHa0Te0L?usp=sharing
 
 ## 강의안 목록입니다.
 

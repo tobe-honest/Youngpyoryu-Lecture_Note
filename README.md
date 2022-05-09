@@ -1,5 +1,4 @@
-# 청주 실시간 교육자료(분류) : https://colab.research.google.com/drive/1JGp8a9zzBXdlTTM6GUuZxpSrRKjKHjSb?usp=sharing
-
+# 청주 실시간 교육자료(딥러닝 기초) : https://colab.research.google.com/drive/1V-klm5vZlfYnSBd5DjroChvPcJBGCTCq?usp=sharing
 ## 강의안 목록입니다.
 
 강의안은 pdf로 구성되어 있거나 실습파일은 .ipynb입니다. 원본 강의안은 공개가 불가능합니다.

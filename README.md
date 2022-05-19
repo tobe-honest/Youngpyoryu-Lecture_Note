@@ -1,4 +1,5 @@
-https://colab.research.google.com/drive/11RI-JdirnOE0vfQuHej0POPN6hggLzwM?usp=sharing
+CNN : https://colab.research.google.com/drive/11RI-JdirnOE0vfQuHej0POPN6hggLzwM?usp=sharing
+Albumenatation : https://colab.research.google.com/drive/1WemEEUwL7ky0zTi1UhXcFyYogRBa_IgM?usp=sharing
 ## 강의안 목록입니다.
 
 강의안은 pdf로 구성되어 있거나 실습파일은 .ipynb입니다. 원본 강의안은 공개가 불가능합니다.

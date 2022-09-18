@@ -37,8 +37,12 @@ CNN 실습 : https://colab.research.google.com/drive/11RI-JdirnOE0vfQuHej0POPN6h
 
 ## 06. Matplotlib(그림 그리기)  / seaborn / plotly 
 
+
+
 ============================Machine Learning============================
-## 회귀 분석
+## 08. 사이킷런으로 배우는 머신러닝
+
+## 09. 회귀 분석
 1) 회귀 분석이란?
 2) 경사하강법 소개 및 증명
 3) 회귀의 평가(R^2, adjusted R^2, AIC,BIC)
@@ -59,7 +63,7 @@ Mixture Model 소개
 
 HW : House advanced regression problem
 
-## 분류-1
+## 10. 분류
 1) k-nearest neighbors
 2) Naive Bayes
 3) Decison Tree
@@ -83,13 +87,15 @@ Hyperparamter 자동 : optnua /  Imblanced data
 1) Support Vector Machine
 2) Kernel Method
 
-## Dimensionality Rediction
+## 비지도학습
+### Dimensionality Rediction
 1) Principal component analysis (PCA)
 2) Linear Discriminant Analysis(LDA)
 3) singular value decomposition (SVD)
 4) Non-negative matrix factorization (NMF)
 
-## Clustering
+## 비지도학습
+###Clustering
 1) K-nearest neighbors
 2) K-means,K-mediean,k-medoids
 3) Elbow method with k means
@@ -133,7 +139,7 @@ Hyperparamter 자동 : optnua /  Imblanced data
 
 ## R로 하는 데이터 분석 / 텍스트 마이닝
 
-## 시계열 분석
+## 시계열 분석 - 수정중(22.09)
 1) 통계량,가설검정
 2) 확률과정, 시계열 데이터 처리
 3) Autocorrleation, Deterministic/Probabilistic model

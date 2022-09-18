@@ -38,7 +38,7 @@ CNN 실습 : https://colab.research.google.com/drive/11RI-JdirnOE0vfQuHej0POPN6h
 ## 06. Matplotlib(그림 그리기)  / seaborn / plotly 
 
 ============================Machine Learning============================
-## 07. 회귀 분석
+## 회귀 분석
 1) 회귀 분석이란?
 2) 경사하강법 소개 및 증명
 3) 회귀의 평가(R^2, adjusted R^2, AIC,BIC)
